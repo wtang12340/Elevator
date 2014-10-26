@@ -1,0 +1,8 @@
+C:\Users\William\Documents\Visual Studio 2013\Projects\Elevator\Elevator\bin\Release\Elevator.exe.config
+C:\Users\William\Documents\Visual Studio 2013\Projects\Elevator\Elevator\bin\Release\Elevator.exe
+C:\Users\William\Documents\Visual Studio 2013\Projects\Elevator\Elevator\bin\Release\Elevator.pdb
+C:\Users\William\Documents\Visual Studio 2013\Projects\Elevator\Elevator\obj\Release\Elevator.Form1.resources
+C:\Users\William\Documents\Visual Studio 2013\Projects\Elevator\Elevator\obj\Release\Elevator.Properties.Resources.resources
+C:\Users\William\Documents\Visual Studio 2013\Projects\Elevator\Elevator\obj\Release\Elevator.csproj.GenerateResource.Cache
+C:\Users\William\Documents\Visual Studio 2013\Projects\Elevator\Elevator\obj\Release\Elevator.exe
+C:\Users\William\Documents\Visual Studio 2013\Projects\Elevator\Elevator\obj\Release\Elevator.pdb
